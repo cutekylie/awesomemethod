@@ -1,7 +1,7 @@
 # Dependencies
 deps:
 ```bash
-sudo pacman -S rofi picom kitty thunar maim xclip tumbler feh eza materia-gtk-theme lxappearance papirus-icon-theme
+sudo pacman -S rofi picom kitty thunar maim xclip tumbler feh eza materia-gtk-theme lxappearance papirus-icon-theme yad
 ```
 ---
 fonts (on arch):
